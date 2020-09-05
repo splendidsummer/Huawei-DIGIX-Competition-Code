@@ -134,4 +134,5 @@ dmypy.json
 /efficientnet-b0-355c32eb.pth
 /efficientnet-b4-6ed6700e.pth
 /.idea/
-/.idea/
+
+/.idea/inspectionProfiles/
