@@ -1,4 +1,4 @@
 # Huawei-DIGIX-Competition-Code-
-华为DIGIX竞赛项目代码
+here is my code for the recent huawei DIGIX image retrieval competition
 
-#  按照 requirement.txt 配置环境
+#  building your environment based on requirement.txt 
