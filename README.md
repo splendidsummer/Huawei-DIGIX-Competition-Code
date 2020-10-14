@@ -1,2 +1,2 @@
 # Huawei-DIGIX-Competition-Code
-华为DIGIX竞赛项目代码
+Competition code for tf2 version
